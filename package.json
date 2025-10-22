@@ -1,11 +1,12 @@
 {
   "name": "accent-mono-dark",
-  "displayName": "accent-mono-dark",
-  "description": "deep dark theme of monotone",
+  "displayName": "Accent Mono Dark",
+  "description": "deep dark monotone theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"
   },
+  "publisher": "371tti",
   "categories": [
     "Themes"
   ],
