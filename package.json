@@ -4,7 +4,7 @@
   "description": "deep dark monotone theme",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.105.0"
+    "vscode": "^1.80.0"
   },
   "publisher": "371tti",
   "categories": [
