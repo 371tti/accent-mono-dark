@@ -1,0 +1,21 @@
+{
+  "name": "accent-mono-dark",
+  "displayName": "accent-mono-dark",
+  "description": "deep dark theme of monotone",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Accent Mono Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Accent Mono Dark-color-theme.json"
+      }
+    ]
+  }
+}
